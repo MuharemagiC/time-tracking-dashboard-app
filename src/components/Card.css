@@ -59,7 +59,7 @@ line-height: 18px;
 color: #BBC0FF;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 890px) {
     .card-body {
         width: 327px;
         height: 122px;

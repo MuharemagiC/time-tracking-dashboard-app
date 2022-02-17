@@ -92,7 +92,7 @@ body {
   cursor: pointer;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 890px) {
   .App {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;

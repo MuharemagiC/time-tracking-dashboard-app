@@ -13,7 +13,7 @@
     top: -5px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 890px) {
     .card-header {
         width: 327px;
         height: 160px;
