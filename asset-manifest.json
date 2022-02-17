@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/time-tracking-dashboard-app/static/css/main.16d3fd62.css",
+    "main.js": "/time-tracking-dashboard-app/static/js/main.826b2cd9.js",
+    "static/media/image-jeremy.png": "/time-tracking-dashboard-app/static/media/image-jeremy.71cd41f11bee24c1ded3.png",
+    "index.html": "/time-tracking-dashboard-app/index.html",
+    "main.16d3fd62.css.map": "/time-tracking-dashboard-app/static/css/main.16d3fd62.css.map",
+    "main.826b2cd9.js.map": "/time-tracking-dashboard-app/static/js/main.826b2cd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16d3fd62.css",
+    "static/js/main.826b2cd9.js"
+  ]
+}
